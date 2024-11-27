@@ -15,13 +15,13 @@
 - **`index.js`**: The JavaScript file that handles the search logic and interaction with the DOM.
 - **`images/`**: A folder containing sample images used in the gallery (You can replace these with your own images).
 
-  ## Demo
+# Demo
 
-  You can view a live demo of this project
+- You can view a live demo of this project
 
-  ## Screenshots
+# Screenshots
 
-Here are a few screenshots of the image gallery:
+- Here are a few screenshots of the image gallery:
 
 ## Technologies Used
 
