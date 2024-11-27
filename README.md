@@ -21,7 +21,7 @@
 
 # Screenshots
 
-- Here are a few screenshots of the image gallery:
+- Here are a few screenshots of the image gallery:![image](https://github.com/user-attachments/assets/840f465d-62d5-417b-96e9-dad2c9f442c4)
 
 ## Technologies Used
 
