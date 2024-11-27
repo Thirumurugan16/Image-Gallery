@@ -19,11 +19,13 @@
 
 - You can view a live demo of this project
 
+https://github.com/user-attachments/assets/f6e2b24f-73be-4612-bd7b-bc0aa1c36f5a
+
 # Screenshots
 
 - Here are a few screenshots of the image gallery:
--
-- ![image](https://github.com/user-attachments/assets/840f465d-62d5-417b-96e9-dad2c9f442c4)
+
+![image](https://github.com/user-attachments/assets/840f465d-62d5-417b-96e9-dad2c9f442c4)
 
 ## Technologies Used
 
